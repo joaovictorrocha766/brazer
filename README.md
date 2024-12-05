@@ -2513,21 +2513,21 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "Sla Hub", HidePremium = false, IntroText = "", SaveConfig = true, ConfigFolder = "Sla Hub"})
 
 OrionLib:MakeNotification({
-	Name = "Sla Hub",
+	Name = "Brazer Hub",
 	Content = "Choose Teams Bro?",
 	Image = "rbxassetid://119980140458596",
 	Time = 7
 })
 
 OrionLib:MakeNotification({
-	Name = "Sla Hub",
+	Name = "Brazer Hub",
 	Content = "Sla Hub",
 	Image = "rbxassetid://119980140458596",
 	Time = 25
 })
 
 OrionLib:MakeNotification({
-    Name = "Sla Hub",
+    Name = "Brazer Hub",
     Content = "Please Wait loading script...,Do not enable any function",
     Image = "rbxassetid://119980140458596",
     Time = 5
