@@ -8337,13 +8337,13 @@ pcall(function()
         if _G.AutoEliteHunter then
             if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub(Noitification)",
+                    Name = "Brazer Hub(Noitification)",
                     Content = "[EN] : Please cancel the farrm level quest (if any)",
                     Image = "rbxassetid://119980140458596",
                     Time = 9
                 })
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub(Noitification)",
+                    Name = "Brazer Hub (Noitification)",
                     Content = "[VN] : Làm ơn hủy nhiệm vụ farrm level(nếu có)",
                     Image = "rbxassetid://119980140458596",
                     Time = 9
@@ -8512,7 +8512,7 @@ spawn(function()
             if _G.AutoObservation then
                 if game:GetService("Players").LocalPlayer.VisionRadius.Value >= 3000 then
                     OrionLib:MakeNotification({
-                        Name = "Sla Hub BOT",
+                        Name = " Brazer Hub BOT",
                         Content = "!!You Are Max Point!!",
                         Image = "rbxassetid://14919714384",
                         Time = 5
